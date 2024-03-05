@@ -1,0 +1,62 @@
+[
+    {
+        "name": "JavaScript",
+        "icon": "icons/javascript.svg",
+        "description": "Lenguaje dinámico para desarrollo web."
+    },
+    {
+        "name": "HTML/CSS",
+        "icon": "icons/html.svg",
+        "description": "lenguaje de diseño gráfico para definir y crear diseños web."
+    },
+    {
+        "name": "Python",
+        "icon": "icons/python.svg",
+        "description": "Legibilidad y versatilidad en los scripts."
+    },
+    {
+        "name": "React",
+        "icon": "icons/react.svg",
+        "description": "Libreria de Facebook's UI para Apps web."
+    },
+    {
+        "name": "NodeJs",
+        "icon": "icons/nodejs.svg",
+        "description": "Entorno en tiempo de ejecución multiplataforma"
+    },   
+    {
+        "name": "Vite",
+        "icon": "icons/vite.png",
+        "description": "Marco de desarrollo web rápido y liviano para front-end."
+    },
+    {
+        "name": "GitHub",
+        "icon": "icons/github.svg",
+        "description": "Plataforma de desarrollo colaborativo con control de versiones"
+    },
+    {
+        "name": "Express",
+        "icon": "icons/express.svg",
+        "description": "Framework web Node.js minimalista y flexible."
+    },
+    {
+        "name": "Tailwind",
+        "icon": "icons/tailwind.svg",
+        "description": "Framework CSS de interfaz de usuario."
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "icons/bootstrap.svg",
+        "description": "Framework de front-end para diseño responsivo."
+    },
+    {
+        "name": "SQL",
+        "icon": "icons/sql.svg",
+        "description": "Lenguaje de consulta estructurado para bases de datos."
+    },
+    {
+        "name": "GitLab",
+        "icon": "icons/gitlab.png",
+        "description": "Gestor de proyectos con automatización y control de versiones Git."
+    }
+]

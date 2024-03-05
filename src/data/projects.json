@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Grocery",
+		"color_1": "#6C91C2",
+		"color_2": "#373F47",
+		"title": "Grocery Bud",
+		"description": "Grocery Body practicamente es un CRUD, desarrollado en React.js ",
+		"image": "img/grocery.png",
+		"link": "https://crisbravoon.github.io/Grocery-Bud/"
+	},
+	{
+		"name": "Rick And Morty",
+		"color_1": "#dbfba4",
+		"color_2": "#564d80",
+		"title": "E-commerce App",
+		"description": "Consumo de API de Rick and Morty, el cual fue desarrollado con React.js, Vite",
+		"image": "img/Rick.png",
+		"link": "https://crisbravoon.github.io/Rick-And-Morty/"
+	},
+	{
+		"name": "Clima",
+		"color_1": "#e0e0e0",
+		"color_2": "#2a2b2e",
+		"title": "App Clima-Nodejs",
+		"description": "Proyecto de aprendizaje de la herramienta de Node.js, el cual entraga el clima de la ciudad que desea.",
+		"image": "img/node.png",
+		"link": "https://github.com/EseToni/NextMenu"
+	},
+	{
+		"name": "Game",
+		"color_1": "#f52a41",
+		"color_2": "#2D1E2F",
+		"title": "BlackJack Game",
+		"description": "Divertido juego de Cartas desarrollado con React + Vite + Javacript + Bootstrap.",
+		"image": "img/BlackJack.png",
+		"link": "https://crisbravoon.github.io/BlackJack-App/"
+	},
+	{
+		"name": "TODO",
+		"color_1": "#bd93f9",
+		"color_2": "#53a684",
+		"title": "App TODO",
+		"description": "Aplicación desarrollada en React + Vite",
+		"image": "img/Todo.png",
+		"link": "https://github.com/Crisbravoon/TODO-Vite/"
+	},
+	{
+		"name": "Calculadora",
+		"color_1": "#e0e0e0",
+		"color_2": "#2a2b2e",
+		"title": "Calculadora en JavaScript",
+		"description": "Calculara basica programada en JavaScript con Styles",
+		"image": "img/Calculadora.png",
+		"link": "https://github.com/Crisbravoon/Calculadora"
+	}
+]
