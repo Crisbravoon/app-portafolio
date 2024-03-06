@@ -22,7 +22,7 @@
     {
         "name": "NodeJs",
         "icon": "icons/nodejs.svg",
-        "description": "Entorno en tiempo de ejecución multiplataforma"
+        "description": "Entorno en tiempo de ejecución multiplataforma."
     },   
     {
         "name": "Vite",
@@ -32,7 +32,7 @@
     {
         "name": "GitHub",
         "icon": "icons/github.svg",
-        "description": "Plataforma de desarrollo colaborativo con control de versiones"
+        "description": "Plataforma de desarrollo colaborativo con control de versiones."
     },
     {
         "name": "Express",
