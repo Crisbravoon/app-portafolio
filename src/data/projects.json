@@ -4,7 +4,7 @@
 		"color_1": "#6C91C2",
 		"color_2": "#373F47",
 		"title": "Grocery Bud",
-		"description": "Grocery Body practicamente es un CRUD, desarrollado en React.js ",
+		"description": "Grocery Body practicamente es un CRUD, desarrollado en React. ",
 		"image": "img/grocery.png",
 		"link": "https://crisbravoon.github.io/Grocery-Bud/"
 	},
@@ -13,7 +13,7 @@
 		"color_1": "#dbfba4",
 		"color_2": "#564d80",
 		"title": "App Rick and Morty",
-		"description": "Consumo de API de Rick and Morty, el cual fue desarrollado con React.js, Vite",
+		"description": "Consumo de API de Rick and Morty, el cual fue desarrollado con React +Vite.",
 		"image": "img/Rick.png",
 		"link": "https://crisbravoon.github.io/Rick-And-Morty/"
 	},
@@ -40,7 +40,7 @@
 		"color_1": "#bd93f9",
 		"color_2": "#53a684",
 		"title": "App TODO",
-		"description": "Aplicación desarrollada en React + Vite",
+		"description": "Aplicación desarrollada en React + Vite.",
 		"image": "img/Todo.png",
 		"link": "https://github.com/Crisbravoon/TODO-Vite/"
 	},
@@ -49,7 +49,7 @@
 		"color_1": "#e0e0e0",
 		"color_2": "#2a2b2e",
 		"title": "Calculadora en JavaScript",
-		"description": "Calculara basica programada en JavaScript con Styles",
+		"description": "Calculara basica programada en JavaScript con Styles.",
 		"image": "img/Calculadora.png",
 		"link": "https://github.com/Crisbravoon/Calculadora"
 	}
