@@ -12,7 +12,7 @@
 		"name": "Rick And Morty",
 		"color_1": "#dbfba4",
 		"color_2": "#564d80",
-		"title": "E-commerce App",
+		"title": "App Rick and Morty",
 		"description": "Consumo de API de Rick and Morty, el cual fue desarrollado con React.js, Vite",
 		"image": "img/Rick.png",
 		"link": "https://crisbravoon.github.io/Rick-And-Morty/"
