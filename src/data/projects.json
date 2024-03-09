@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Tesla",
+		"color_1": "#535C91",
+		"color_2": "#9290C3",
+		"title": "Tesla Landing Page ",
+		"description": "Clon de pagina de tesla para mejorar la programación, hecho con Astro + js + Tailwind UI",
+		"image": "img/tesla.png",
+		"link": "https://tesla-clone-tau-mocha.vercel.app"
+	},
+	{
 		"name": "Grocery",
 		"color_1": "#6C91C2",
 		"color_2": "#373F47",
