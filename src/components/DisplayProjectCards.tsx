@@ -51,9 +51,6 @@ const DisplayProjectCards = () => {
 							title={project.title}
 							description={project.description}
 							image={project.image}
-							name={project.name}
-							color_1={project.color_1}
-							color_2={project.color_2}
 							link={project.link}
 						/>
 					)
