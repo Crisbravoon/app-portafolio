@@ -11,6 +11,7 @@ const PagesArrow = ({ pages, currentPage, setCurrentPage }: Props) => {
 		setCurrentPage(page_s)
 		if (pages === projects.length) {
 			const root = document.documentElement
+			root.style.setProperty('--primary-color', '#4F7396');
 		}
 	}
 	return (

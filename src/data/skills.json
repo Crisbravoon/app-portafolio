@@ -1,5 +1,10 @@
 [
     {
+        "name": "TypeScript",
+        "icon": "icons/typeScript.svg",
+        "description": "Lenguaje que extiende JavaScript con tipado estático."
+    },
+    {
         "name": "JavaScript",
         "icon": "icons/javascript.svg",
         "description": "Lenguaje dinámico para desarrollo web."
@@ -13,6 +18,11 @@
         "name": "Python",
         "icon": "icons/python.svg",
         "description": "Legibilidad y versatilidad en los scripts."
+    },
+    {
+        "name": "React Redux",
+        "icon": "icons/redux.svg",
+        "description": "Biblioteca para gestionar el estado en aplicaciones React."
     },
     {
         "name": "React",

@@ -18,11 +18,6 @@ const ProjectCard2 = ({
 		>
 			<a href={link} target="_blank">
 				<div class={`absolute overflow-hidden rounded-xl`}>
-					{/* <h3
-						class={`font-bold text-3xl transition-all absolute text-white opacity-95 z-10 top-[50%] left-[50%] transform -translate-x-1/2 -translate-y-1/2 group-hover/picture:opacity-0`}
-					>
-						{name}
-					</h3> */}
 					<div
 						style={{
 							clipPath: "polygon(0 0, 0 100%, 100% 0)",
