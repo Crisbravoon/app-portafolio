@@ -1,5 +1,23 @@
 [
 	{
+		"title": "Bebidas Page",
+		"description": "Proyecto de consumo de Api de bebidas con formulario de busqueda, se utilizo Redux, Zod y Zustand para manejo de estado , TypeScript y React + Vite , además de Tailwind Css",
+		"image": "img/bebidas.png",
+		"link": "https://bebidas-react-mauve.vercel.app"
+	},
+	{
+		"title": "Cotización de Criptomonedas",
+		"description": "Proyecto de consumo de Api de cotización de criptomonedas, se utilizo Redux para manejo de estado , TypeScript y React + Vite , además de Tailwind Css",
+		"image": "img/criptomonedas.png",
+		"link": "https://criptomonedas-app.vercel.app"
+	},
+	{
+		"title": "Seguimiento de Pacientes",
+		"description": "Proyecto realizado en React js con Typescript, utilizando Redux para los estados y Tailwind Css",
+		"image": "img/pacientes.png",
+		"link": "https://paciente-seguimiento-zustand.vercel.app"
+	},
+	{
 		"title": "Seguimiento de Calorias",
 		"description": "Proyecto de practica en donde se maneja estados, reducer, además de utilizar  React con ts + Tailwind UI",
 		"image": "img/Calories.png",
