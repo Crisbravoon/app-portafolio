@@ -1,23 +1,23 @@
 [
     {
-        "title": "Invoke LTDA - Consultor Red Hat Junior",
-        "description": "Consultor Red Hat Junior en modalidad de jornada completa y trabajo remoto.\n\nResponsabilidades:\n• Lideré y participé en reuniones para identificar y resolver problemas clave de los clientes, garantizando la satisfacción y la entrega oportuna de soluciones.\n• Documenté procesos, decisiones y soluciones, entregando estos informes detallados a los clientes.\n• Brindé apoyo continuo al equipo, fomentando la comunicación y la colaboración.\n• Desarrollé y presenté Pruebas de Concepto (POC) para validar y demostrar la viabilidad de soluciones técnicas.\n• Realicé instalaciones y configuraciones de productos Red Hat, como Virtualization Manager y Container Platform.",
+        "title": "Invoke LTDA - Consultant Red Hat Junior",
+        "description": "Desempeñe como consultor junior de Red Hat en donde realice instalación de Openshift Container Platform, Operadores y Red Hat Virtualization Manager, he logrado fortalcer el trabajo en equipo y desenvolverme de mejor manera.",
         "location": "Remoto, Chile",
         "date": "Jun. 2023 - Feb. 2024",
         "icon": "img/logo_invoke.jpeg"
     },
     {
         "title": "Ofimundo - Desarrollador RPA",
-        "description": "Práctica profesional centrada en el desarrollo y automatización de procesos mediante herramientas RPA.\n\nResponsabilidades:\n• Creación de bots utilizando la herramienta ElectroNeek.\n• Elaboración de diagramas de flujo para documentar los procesos automatizados.",
+        "description": "Practica Profesional en donde trabajé de la mano de herramienta de ElectroNeek RPA en la creación de Bots y elaboración de diagramas de flujos.",
         "location": "Presencial, Chile",
-        "date": "Nov. 2022 - Ene. 2023",
+        "date": "Nov 2022 - Ene. 2023",
         "icon": "img/ofimundo.jpeg"
     },
     {
         "title": "HackMonkeys - Desarrollo Web",
-        "description": "Práctica profesional enfocada en el desarrollo web utilizando el framework React.js.\n\nResponsabilidades:\n• Garantizar la capacidad de respuesta y usabilidad de las aplicaciones web.\n• Apoyar el diseño y la arquitectura de aplicaciones web.\n• Administrar el entorno de desarrollo para aplicaciones Front-End y Back-End.\n• Mantener la integridad, la organización y la calidad del código.",
+        "description": "Practica Laboral en donde participe en creación de proyecto web en React js . Mis tareas incluyen garantizar la capacidad respuesta y apoyo en diseño de la arquitectura y en la aplicación por el lador Front-End y Back-End.",
         "location": "Remoto, Chile",
-        "date": "Ene. 2021 - Feb. 2021",
+        "date": "Ene.2021 - Feb. 2021",
         "icon": "img/hackmonkeys_logo.jpeg"
     }
 ]
