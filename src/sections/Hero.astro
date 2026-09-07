@@ -1,0 +1,57 @@
+---
+import MoveButton from "@components/MoveButton"
+import info from "@data/info.json"
+---
+
+<section
+	class="mt-10 flex flex-col items-center w-full max-w-[1080px] mx-auto md:flex-row md:items-center md:justify-center md:gap-4 lg:gap-6 px-4"
+	id="hero"
+>
+	<div class="w-[80%] max-w-[380px] md:w-5/12 lg:w-4/12 mb-6 md:mb-0 mx-auto md:mx-0 md:mr-2">
+		<picture>
+			<img
+				src={info.hero_img || "images/hero_img.webp"}
+				alt="hero"
+				class="w-full h-auto object-cover rounded-xl shadow-lg"
+			/>
+		</picture>
+	</div>
+
+	<div class="w-full md:w-7/12 lg:w-7/12 flex flex-col justify-center gap-5 md:pl-2">
+		<div class="flex flex-col gap-2">
+			<h2 class="text-[#0D141C] text-4xl lg:text-5xl font-black">{info.name}</h2>
+			<p class="text-[#0D141C] text-left text-balance mt-2">
+				{info.description}
+			</p>
+		</div>
+
+		<div class="flex flex-row gap-4 font-bold">
+			<a
+				href={`${info.resume || "resources/Cristobal-Bravo_CV.pdf"}`}
+				download={"Cristobal-Bravo_CV" + ".pdf"}
+			>
+				<button
+					class="group items-start gap-1 bg-[var(--primary-color)] rounded-xl text-[#F7FAFC] py-2 px-4 flex text-center transition-all hover:bg-[#F7FAFC] hover:text-[var(--primary-color)] hover:shadow-md hover:scale-105"
+				>
+					Descargar CV 
+					<svg
+						xmlns="http://www.w3.org/2000/svg"
+						width="18"
+						height="18"
+						viewBox="0 0 256 256"
+						><path
+							class="fill-[#F7FAFC] group-hover:fill-[var(--primary-color)] transition-all"
+							d="M228 152v56a20 20 0 0 1-20 20H48a20 20 0 0 1-20-20v-56a12 12 0 0 1 24 0v52h152v-52a12 12 0 0 1 24 0m-108.49 8.49a12 12 0 0 0 17 0l40-40a12 12 0 0 0-17-17L140 123V40a12 12 0 0 0-24 0v83l-19.51-19.49a12 12 0 0 0-17 17Z"
+						></path></svg
+					>
+				</button>
+			</a>
+			<MoveButton client:idle targetId="contact">
+				<button
+					class="shadow-md hover:text-[var(--primary-color)] rounded-xl text-[#0D141C] py-2 px-4 flex text-center hover:shadow-sm hover:scale-105 transition-all"
+					>Contacto</button
+				>
+			</MoveButton>
+		</div>
+	</div>
+</section>

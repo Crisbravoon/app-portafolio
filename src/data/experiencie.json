@@ -1,0 +1,62 @@
+[  {
+    "title": "Solex - Consultor de Servicios Recurrentes",
+    "description": [
+      "Consultor de Servicios Recurrentes enfocado en soporte y administración de IBM Maximo Application Suite (MAS) sobre Red Hat OpenShift ☁️",
+      "🚀 Instalación, configuración y actualización (upgrade/patching) de entornos MAS",
+      " 🔧 Soporte operativo y troubleshooting (logs, pods, rutas, certificados, etc.)",
+      "🗄️ Apoyo en tareas de DB2U/MongoCE: respaldos/restores y verificación de almacenamiento ☁️📦",
+      "📊 Creación y mantención de reportes BIRT",
+      "🧾 Documentación técnica (procedimientos, evidencias, guías y control de cambios)",
+      "🎫 Creación y seguimiento de tickets/casos con IBM Support (evidencias, trazas y coordinación)"
+    ],
+    "location": "Hibrido, Chile",
+    "date": "Jun. 2025 - Actualidad",
+    "icon": "img/solex_logo.jpg"
+  },
+  {
+    "title": "Aurora Australis S.A - Soporte TI",
+    "description": [
+      "🔧 Mantenimiento y reparación de impresoras, incluyendo el reemplazo de piezas y configuración.",
+      "💻 Solución de problemas en Office 365 en diferentes áreas de la empresa.",
+      "🖥️ Instalaciones y configuración de computadoras e impresoras para diferentes áreas de la empresa."
+    ],
+    "location": "Presencial, Chile",
+    "date": "Nov. 2024 - Ene. 2025",
+    "icon": "img/aurora.jpeg"
+  },
+  {
+    "title": "Invoke LTDA - Consultant Red Hat Junior",
+    "description": [
+      "🔹 Lideré y participé en reuniones para identificar y resolver problemas clave de los clientes, garantizando la satisfacción y la entrega oportuna de soluciones.",
+      "📄 Documenté procesos, decisiones y soluciones el cual es entregado al cliente.",
+      "🤝 Brindé apoyo continuo, fomentando la comunicación y colaboración en el equipo.",
+      "🛠️ Desarrollé y presenté POC para validar y demostrar la viabilidad de las soluciones.",
+      "📌 Realicé instalaciones y configuraciones de productos Red Hat como Virtualization Manager y Container Platform."
+    ],
+    "location": "Remoto, Chile",
+    "date": "Jun. 2023 - Feb. 2024",
+    "icon": "img/logo_invoke.jpeg"
+  },
+  {
+    "title": "Ofimundo - Desarrollador RPA",
+    "description": [
+      "🤖 Creación de bots con ElectroNeek.",
+      "📝 Elaboración de diagramas de flujos."
+    ],
+    "location": "Presencial, Chile",
+    "date": "Nov 2022 - Ene. 2023",
+    "icon": "img/ofimundo.jpeg"
+  },
+  {
+    "title": "HackMonkeys - Desarrollo Web",
+    "description": [
+      "⚡ Garantizar la capacidad de respuesta de la aplicación.",
+      "🏗️ Apoyar el diseño de la arquitectura de aplicaciones web.",
+      "🌐 Administrar el entorno web en el desarrollo de aplicaciones Front-End y Back-End.",
+      "🔒 Mantener la integridad y organización del código."
+    ],
+    "location": "Remoto, Chile",
+    "date": "Ene.2021 - Feb. 2021",
+    "icon": "img/hackmonkeys_logo.jpeg"
+  }
+]
